@@ -124,7 +124,8 @@ The entry point of the report - a custom HTML cover page introducing the dashboa
 - **Replicate top-agent behaviors** — analyze what the top 10 agents by commission and cross-sell rate do differently, and use it to coach the broader agent pool.
 - **Improve satisfaction in higher-risk segments** - where avg risk score and satisfaction diverge, address service/claims experience to protect renewal rate.
 
----
+## Link to assess my PowerBI Service
+- https://app.powerbi.com/view?r=eyJrIjoiNTc2N2YyMjgtNzhlYy00N2QwLTk1ZGItMDZlMTNlZWE0NDg1IiwidCI6IjQ4NTkyZTczLTE2OTUtNGVmMy1hYzg3LWM0ZDNjMGVhNDYzMyJ9
 
 
 
