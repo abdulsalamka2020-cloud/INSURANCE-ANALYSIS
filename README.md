@@ -7,7 +7,7 @@ An end-to-end Power BI report that gives insurance executives, underwriters, and
 
 ---
 
-## Tools & Techniques Used
+## Tools and Techniques Used
 
 | Category | Tools/Techniques |
 |---|---|
@@ -27,9 +27,9 @@ This dashboard consolidates policy, claims, customer, and agent data into an int
 
 ---
 
-## Design & Technical Features
+## Design and Technical Features
 
-- **Custom HTML Landing Page** — built with the HTML Content custom visual for a branded cover page with navigation buttons into each report section.
+- **Custom HTML Landing Page** - built with the HTML Content custom visual for a branded cover page with navigation buttons into each report section.
 - **Dynamic, HTML-driven Title on the Overview Page** - the page title updates dynamically via DAX + HTML Content visual based on the active slicer selection (Year / Region).
 - **Distinct Theming per Page** - the Overview page uses a **black and dark teal** color palette to visually separate it from the lighter teal theme used on the Portfolio and Performance pages, reinforcing page identity while staying on-brand.
 - **Tooltip Pages** - custom report-page tooltips provide extra context (e.g., trend detail, breakdowns) on hover without cluttering the main visuals.
