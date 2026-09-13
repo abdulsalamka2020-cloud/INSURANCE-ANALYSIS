@@ -3,7 +3,7 @@
 
 ![Insurance Banner](05_cover_banner.jpg)
 
-An end-to-end Power BI report that gives insurance executives, underwriters, and agency managers a single view of **policy performance, portfolio health, and regional and agent productivity** - built across four connected pages: **Landing Page, Overview, Portfolio, and Performance**.
+An end-to-end Power BI report that gives insurance executives, underwriters, and agency managers a single view of **policy performance, portfolio health, and regional/agent productivity** - built across four connected pages: **Landing Page, Overview, Portfolio, and Performance**.
 
 ---
 
@@ -21,7 +21,7 @@ An end-to-end Power BI report that gives insurance executives, underwriters, and
 
 ##  Project Summary
 
-This dashboard consolidates policy, claims, customer, and agent data into an interactive report that helps stakeholders track profitability (loss ratio, claims vs. premium), monitor portfolio quality (renewal rate, risk score, customer satisfaction), and evaluate regional and agent-level productivity — all filterable by **Year**, **Region**, and **Policy Tier**.
+This dashboard consolidates policy, claims, customer, and agent data into an interactive report that helps stakeholders track profitability (loss ratio, claims vs. premium), monitor portfolio quality (renewal rate, risk score, customer satisfaction), and evaluate regional and agent-level productivity - all filterable by **Year**, **Region**, and **Policy Tier**.
 
 **Report Pages:** Landing Page → Overview → Portfolio → Performance
 
@@ -70,7 +70,7 @@ The entry point of the report - a custom HTML cover page introducing the dashboa
 
 **Visuals:**
 - Renewal Rate by Customer Income Bracket (bar chart)
-- Total Customers by Customer Segment (donut chart — Retail, SME, Corporate)
+- Total Customers by Customer Segment (donut chart - Retail, SME, Corporate)
 - Avg Customer Satisfaction & Avg Risk Score by Customer Segment (clustered bar)
 - Customer Segment by Policy Type Performance (matrix table)
 
@@ -119,9 +119,9 @@ The entry point of the report - a custom HTML cover page introducing the dashboa
 - **Prioritize Home and Health policy underwriting review** - these carry the largest share of both premium and claims exposure; refine risk-based pricing to protect margin.
 - **Target retention efforts at lower-income brackets** - renewal rate declines as income bracket drops, suggesting affordability or engagement gaps; consider tiered payment plans or loyalty incentives.
 - **Expand agent capacity in high-policy-density regions** - regions with disproportionately high active policy counts relative to agent headcount risk service bottlenecks and slower claims handling.
-- **Invest further in independent broker channels** — brokers make up the majority of active agents; equip them with better cross-sell tools/incentives to lift the current cross-sell rate.
+- **Invest further in independent broker channels** - brokers make up the majority of active agents; equip them with better cross-sell tools/incentives to lift the current cross-sell rate.
 - **Set a loss ratio threshold alert (e.g., >70%)** - proactively flag policy types or segments crossing this line (Travel is already above 100%) for immediate underwriting action.
-- **Replicate top-agent behaviors** — analyze what the top 10 agents by commission and cross-sell rate do differently, and use it to coach the broader agent pool.
+- **Replicate top-agent behaviors** - analyze what the top 10 agents by commission and cross-sell rate do differently, and use it to coach the broader agent pool.
 - **Improve satisfaction in higher-risk segments** - where avg risk score and satisfaction diverge, address service/claims experience to protect renewal rate.
 
 ## Link to assess my PowerBI Service
